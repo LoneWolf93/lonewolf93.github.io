@@ -6,7 +6,7 @@ layout: page
 
 ## Quien soy?
 
-Me presento, soy Albert un chico de Barcelona y amante de Gnu/Linux. Acabo de aterrizar al 100% en Gnu/Linux, anteriormente ya conocia Gnu/Linux pero por cuestiones ajenas tenia que estas con Windows...
+Me presento, soy Albert un chico de Barcelona y amante de Gnu/Linux y del software libre. Acabo de aterrizar al 100% en Gnu/Linux, anteriormente ya conocia Gnu/Linux pero por cuestiones ajenas tenia que estas con Windows...
 
 Mi primera vez con Gnu/Linux fue alla por el año 2009, todavia lo recuerdo como si fuera ayer. La distribución era Ubuntu 9.10 Karmic Koala, desde ese momento me apasione a montarme mis maquinas virtuales y trastear con el sistema. Más tarde di el paso a Debian 6.0 Squeeze, desde ese momento abandoné ubuntu para siempre y me enamoré de la distro madre, todavia recuerdo el fondo tan pecualiar que tenia.
 
