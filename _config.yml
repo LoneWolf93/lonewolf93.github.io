@@ -2,7 +2,7 @@ title: "Aventuras de un linuxero"
 author: "Blog Author Albert"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "es"
+lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
