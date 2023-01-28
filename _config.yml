@@ -1,6 +1,6 @@
 title: "Aventuras de un linuxero"
 author: "Blog Author Albert"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Esto ha sido posible con el tema <b style=\"color: #f45;\"><a href="https://github.com/niklasbuschmann/contrast">Contrast</a></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
