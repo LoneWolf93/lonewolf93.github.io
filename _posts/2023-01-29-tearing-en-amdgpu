@@ -1,9 +1,7 @@
 ---
-title: "Bienvenido a mi pequeño rincon de Internet"
+title: "Prevenir el screen tearing en pantallas externas"
 layout: post
 ---
-# Prevenir el screen tearing en pantallas externas
-
 Screen tearing puede aparecer cuando utilizas el driver/modulo kernel amdgpu en las AMD Renoir u otras.
 
 > Habilitar TearFree en un monitor externo (Es necesario reiniciar el equipo) ejecutando los siguientes comandos:
