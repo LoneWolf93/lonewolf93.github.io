@@ -26,3 +26,15 @@ Tengo como máquina principal:
 - Disipador Thermaltake Contact 9
 - Seasonic Focus GX-650 80 Plus Gold
 - Caja Corsair Carbide Series SPEC-ALPHA
+
+### Software
+
+Mi dia a dia en Linux es:
+
+- Firefox ESR
+- Obsidian
+- cmus
+- Telegram
+- Thunderbird
+- Amule
+- OSRS (de vez en cuando, hace tiempo que no soy muy jugon)
