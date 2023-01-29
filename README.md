@@ -67,3 +67,8 @@ Utilizo como sistema:
 - Jitsi Meet
 - Olauncher Clutter Free
 - TinyKeePass
+
+
+Como podeis ver mi escritorio de Android es muy minimalista, no me gustan las cosas muy recargadas.
+
+![escritorio-android](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android.jpg){width=50%}
