@@ -14,7 +14,7 @@ Mi primera distribución fue en el año 2009, todavia lo recuerdo como si fuera 
 
 Mas tarde migré a Debian, en concreto a la version 6.0 Squeeze.
 
-## Que usas actualmente?
+## Que utilizo actualmente en el ordenador?
 
 ### Hardware
 
@@ -46,3 +46,24 @@ Utilizo como sistema:
 
 - Debian 11 Stable
 - Spectrwm
+
+## Que utilizo actualmente en el smartphone
+
+### Hardware
+
+- Samsung A5 2016
+- Android 7
+
+### Software
+
+- Bromite
+- Nekogram X
+- Mastodon
+- Aegis
+- Sushi Personal Finance
+- Solid Explorer
+- AntennaPod
+- Feeder
+- Jitsi Meet
+- Olauncher Clutter Free
+- TinyKeePass
