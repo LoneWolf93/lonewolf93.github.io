@@ -26,7 +26,6 @@ Para hacer persitente el cambio se tiene que crear un fichero y posteriormente u
       Driver "amdgpu"
       Option "TearFree" "true"
    EndSection
-   
   ```
 Me he basado en la web [Oficial de Debian](https://wiki.debian.org/AtiHowTo#Preventing_screen_tearing)
 
