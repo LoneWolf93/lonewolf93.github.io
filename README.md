@@ -47,6 +47,8 @@ Utilizo como sistema:
 - Debian 11 Stable
 - Spectrwm
 
+Habrá gente que no le guste pero a mi personalmente Debian Stable y Spectrwm me tiene enamorado. Asi es como tengo mi escritorio en Linux en [**reposo**](https://rim.odyssey346.dev/eFs6SPt.jpeg) y [**trabajando**](https://rim.odyssey346.dev/3ndXdd4.jpeg).
+
 ## Que utilizo actualmente en el smartphone
 
 ### Hardware
