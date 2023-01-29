@@ -38,3 +38,10 @@ Mi dia a dia en Linux es:
 - Thunderbird
 - Amule
 - OSRS (de vez en cuando, hace tiempo que no soy muy jugon)
+
+### Sistema Operativo
+
+Utilizo como sistema:
+
+- Debian 11 Stable
+- Spectrwm
