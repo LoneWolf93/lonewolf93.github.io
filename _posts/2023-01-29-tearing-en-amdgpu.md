@@ -19,13 +19,15 @@ Para hacer persitente el cambio se tiene que crear un fichero y posteriormente u
    La ruta debe quedar: /etc/X11/xorg.conf.d/20-amdgpu.conf
    
 2. El contenido del fichero debe ser el siguiente:
-   
-  `Section "Device"
+  
+  ```
+  Section "Device"
       Identifier "AMD Graphics"
       Driver "amdgpu"
       Option "TearFree" "true"
-   EndSection`
-
+   EndSection
+   
+  ```
 Me he basado en la web [Oficial de Debian](https://wiki.debian.org/AtiHowTo#Preventing_screen_tearing)
 
 [^1]: Se puede descargar del repositorio de debian a traves del enlace [Paquete xrandr para instalarlo en debian 11 bullseye](https://packages.debian.org/bullseye/x11-xserver-utils)
