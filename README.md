@@ -71,4 +71,4 @@ Utilizo como sistema:
 
 Como podeis ver mi escritorio de Android es muy minimalista, no me gustan las cosas muy recargadas.
 
-![alttext|50x100](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android.jpg)
+![Escritorio Android|50|center](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android.jpg)
