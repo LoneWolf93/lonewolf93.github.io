@@ -12,7 +12,7 @@ Hola a todos, soy Albert un chico de Barcelona y amante de Gnu/Linux y del softw
 
 Mi primera distribución fue en el año 2009, todavia lo recuerdo como si fuera ayer. La distribución era [**Ubuntu 9.10 Karmic Koala**](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ubuntu_9.10.png), desde ese momento me apasiono este sistema operativo.
 
-Mas tarde migré a Debian, en concreto a la version 6.0 Squeeze.
+Mas tarde migré a [**Debian 6.0 Squeeze**](https://upload.wikimedia.org/wikipedia/commons/0/0c/Debian_6.0.2.1.png).
 
 ## Que utilizo actualmente en el ordenador?
 
