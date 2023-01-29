@@ -68,7 +68,4 @@ Utilizo como sistema:
 - Olauncher Clutter Free
 - TinyKeePass
 
-
-Como podeis ver mi escritorio de Android es muy minimalista, no me gustan las cosas muy recargadas.
-
-![Escritorio Android|50|center](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android.jpg)
+Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo una imagen de mi [**escritorio Android**](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android.jpg) para que os hagais una idea.
