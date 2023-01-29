@@ -51,7 +51,7 @@ Utilizo como sistema:
 
 ### Hardware
 
-- Samsung A5 2016
+- Samsung Galaxy A5 2016
 - Android 7
 
 ### Software
