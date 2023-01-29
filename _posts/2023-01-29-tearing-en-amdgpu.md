@@ -4,7 +4,7 @@ layout: post
 ---
 [Screen tearing](https://es.wikipedia.org/wiki/Tearing) puede aparecer cuando utilizas el driver/modulo kernel amdgpu en las AMD Renoir u otras.
 
-> Habilitar TearFree en un monitor externo (Es necesario reiniciar el equipo) ejecutando los siguientes comandos:
+Con unos simples comando y un posterior reinicio podremos arreglar este molesto error.
 
 Se debe utilizar el comando de shell xrandr[^1]
 
@@ -16,7 +16,8 @@ Se debe utilizar el comando de shell xrandr[^1]
 Para hacer persitente el cambio se tiene que crear un fichero y posteriormente un reinicio o reiniciando el servidor X[^2]
 
 1. Creamos un fichero llamado 20-amdgpu.conf y lo alojamos en /etc/X11/xorg.conf.d/
-   La ruta debe quedar: /etc/X11/xorg.conf.d/20-amdgpu.conf
+
+La ruta debe quedar: `/etc/X11/xorg.conf.d/20-amdgpu.conf`
    
 2. El contenido del fichero debe ser el siguiente:
   
