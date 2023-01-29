@@ -37,6 +37,7 @@ Mi dia a dia en Linux es:
 - Telegram
 - Thunderbird
 - Amule
+- KeepassXC
 - OSRS (de vez en cuando, hace tiempo que no soy muy jugon)
 
 ### Sistema Operativo
