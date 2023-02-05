@@ -70,4 +70,4 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Spectrwm me
 - Olauncher Clutter Free
 - TinyKeePass
 
-Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo una imagen de mi [**escritorio Android**](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android.jpg) para que os hagais una idea.
+Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo una imagen de mi [**escritorio Android**](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android-v2.jpg) para que os hagais una idea.
