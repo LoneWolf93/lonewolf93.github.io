@@ -58,7 +58,7 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Spectrwm me
 
 ### Software
 
-- Bromite
+- Iceraven
 - Nekogram X
 - Mastodon
 - Aegis
