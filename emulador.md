@@ -1,5 +1,5 @@
 ---
-title: "Emular en Android"
+title: "Emular juegos en Android"
 permalink: "/emuladores/"
 layout: page
 ---
