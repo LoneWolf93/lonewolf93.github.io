@@ -5,7 +5,7 @@ layout: page
 ---
 # Emular juegos en Android
 
-En mis horas muertas por la noche suelo juegar con el emulador [Lemudroid](https://f-droid.org/es/packages/com.swordfish.lemuroid/), este fantástico emulador te permite jugar a todo tipo de juegos y en distintas plataformas como GameBoy Advance, GameBoy Color, Super Nintedo, etc.
+En mis horas muertas, por la noche, suelo jugar con el emulador [Lemudroid](https://f-droid.org/es/packages/com.swordfish.lemuroid/), este fantástico emulador te permite jugar a todo tipo de juegos y en distintas plataformas como GameBoy Advance, GameBoy Color, Super Nintendo, etc.
 
 He creado una tabla con todos los juegos que poseo dentro del emulador, esta tabla se ira actualizando cada vez que posea una rom nueva.
 
