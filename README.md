@@ -65,6 +65,7 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Spectrwm me
 - Sushi Personal Finance
 - Solid Explorer
 - AntennaPod
+- Lemuroid
 - Feeder
 - Jitsi Meet
 - Olauncher Clutter Free
