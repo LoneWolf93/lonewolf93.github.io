@@ -1,6 +1,6 @@
 ---
 title: "Juegos"
-permalink: "/Juegos/"
+permalink: "/juegos/"
 layout: page
 ---
 ## Emular juegos en Android
