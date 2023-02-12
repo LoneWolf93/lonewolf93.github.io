@@ -3,7 +3,7 @@ title: "Games"
 permalink: "/Games/"
 layout: page
 ---
-# Emular juegos en Android
+## Emular juegos en Android
 
 En mis horas muertas, por la noche, suelo jugar con el emulador [Lemudroid](https://f-droid.org/es/packages/com.swordfish.lemuroid/), este fantástico emulador te permite jugar a todo tipo de juegos y en distintas plataformas como GameBoy Advance, GameBoy Color, Super Nintendo, etc.
 
