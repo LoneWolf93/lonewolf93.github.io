@@ -12,3 +12,7 @@ He creado una tabla con todos los juegos que poseo dentro del emulador, esta tab
 [Listado de ROMS](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxjk4vj6_7Z4_6-azsdnBMmNNobnmiPHoRvf9GLPm4b_TnrJTeF-YhpMF1vQ3i1MZHZaqMwKC2HF50/pubhtml?gid=1868224554&single=true)
 
 Se que esta mal descargar roms... Pero ya a estas alturas del año vigente es dificil o muy caro encontrar estos juegos o consolas, tambien sus precios son desorbitados.
+
+Si os gusta la lista y quieres probar algunas roms podeis descargarlo [aqui](https://mega.nz/file/T8d0HAjb#DIp3Naha2m6NQapXWrt8p0Eg1tIT5_yRGIZNiGNOIZU)
+
+Para acabar dejo el diagnostico de VirusTotal de que no contiene virus.
