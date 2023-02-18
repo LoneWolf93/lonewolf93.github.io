@@ -38,6 +38,7 @@ Mi dia a dia en Linux es:
 - Thunderbird
 - Amule
 - KeepassXC
+- Micro text editor
 - OSRS (de vez en cuando, hace tiempo que no soy muy jugon)
 
 ### Sistema Operativo
@@ -63,7 +64,7 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Spectrwm me
 - Mastodon
 - Aegis
 - Sushi Personal Finance
-- Solid Explorer
+- Material Files
 - AntennaPod
 - Lemuroid
 - Feeder
