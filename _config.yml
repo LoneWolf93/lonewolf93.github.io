@@ -17,10 +17,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  #- {file: "index.html"}
-  - {title: Inicio, icon: house-chimney, url: "https://lonewolf93.github.io/"}
-  - {sidebaricon: game-console-handheld, file: "emulador.md"}
-  - {sidebaricon: user, file: "README.md"}
+  - {file: "index.html"}
+  #- {title: Inicio, icon: house-chimney, url: "https://lonewolf93.github.io/"}
+  - {file: "emulador.md"}
+  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: E-Mail, url: "mailto:albert.esparrell@disroot.org"}
