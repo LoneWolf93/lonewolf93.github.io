@@ -36,7 +36,7 @@ Para finalizar cuenta con modo oscuro y tambien es amigable para las pantallas [
 
 ### Enlaces
 
-Esta disponible en:
+Disponible en:
 
 - [Github](https://github.com/zhanghai/MaterialFiles)
 - [F-Droid](https://f-droid.org/es/packages/me.zhanghai.android.files/)
