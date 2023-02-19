@@ -18,8 +18,8 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "post.html"}
-  - {icon: game-console-handheld, file: "emulador.md"}
-  - {icon: user, file: "README.md"}
+  - {title: Emulador, icon: game-console-handheld, file: "emulador.md"}
+  - {title: Sobre, icon: user, file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: E-Mail, icon: envelope, url: "mailto:albert.esparrell@disroot.org"}
