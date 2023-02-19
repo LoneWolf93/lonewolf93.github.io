@@ -23,10 +23,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {sidebaricon: user, file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: E-Mail, icon: envelope, url: "mailto:albert.esparrell@disroot.org"}
-  - {title: Github, icon: github, url: "https://github.com/LoneWolf93"}
-  - {title: RSS, icon: rss, url: "/feed.xml"}
-  - {title: Mastodon, icon: mastodon, url: "https://social.linux.pizza/@CondeChocula"}
+  - {title: E-Mail, url: "mailto:albert.esparrell@disroot.org"}
+  - {title: Github, url: "https://github.com/LoneWolf93"}
+  - {title: RSS, url: "/feed.xml"}
+  - {title: Mastodon, url: "https://social.linux.pizza/@CondeChocula"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
