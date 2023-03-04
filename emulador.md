@@ -11,9 +11,9 @@ He creado una tabla con todos los juegos que poseo dentro del emulador, esta tab
 
 ### Plataformas en la que lo estoy compartiendo
 
-- eMule: ![](ed2k://|file|roms-para-lemuroid.tar.xz|262169484|2642092DB31FCF95DF8C38561911D391|/)
+- eMule: ed2k://|file|roms-para-lemuroid.tar.xz|262169484|2642092DB31FCF95DF8C38561911D391|/
 
-- MEGA: ![](https://mega.nz/file/Xwsw1SRR#YJD2GGqfF9MJIw_Ykm8hu6YviSB-pxsHIUUUexHLqcY)
+- MEGA: https://mega.nz/file/Xwsw1SRR#YJD2GGqfF9MJIw_Ykm8hu6YviSB-pxsHIUUUexHLqcY
 
 [Listado de ROMS](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxjk4vj6_7Z4_6-azsdnBMmNNobnmiPHoRvf9GLPm4b_TnrJTeF-YhpMF1vQ3i1MZHZaqMwKC2HF50/pubhtml?gid=1868224554&single=true)
 
