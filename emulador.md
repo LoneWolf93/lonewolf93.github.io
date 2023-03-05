@@ -20,7 +20,7 @@ ed2k://|file|roms-para-lemuroid.tar.xz|262169484|2642092DB31FCF95DF8C38561911D39
 
 #### Listado de roms
 
-[Excel de roms](https://cryptpad.fr/sheet/#/2/sheet/view/iJUSVoiJSGjipiYSVS7SX1j1Nt7t1KZ-X8ekjVZ7u6s/embed/)
+[Excel de roms](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxjk4vj6_7Z4_6-azsdnBMmNNobnmiPHoRvf9GLPm4b_TnrJTeF-YhpMF1vQ3i1MZHZaqMwKC2HF50/pubhtml?gid=1868224554&single=true)
 
 Se que esta mal descargar roms... Pero ya a estas alturas del año vigente es dificil o muy caro encontrar estos juegos o consolas, tambien sus precios son desorbitados.
 
