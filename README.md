@@ -33,7 +33,7 @@ Mi dia a dia en Linux es:
 
 - Firefox ESR
 - Obsidian
-- cmus
+- Audacious
 - Telegram
 - Thunderbird
 - Amule
@@ -46,7 +46,7 @@ Mi dia a dia en Linux es:
 Utilizo como sistema:
 
 - Debian 11 Stable
-- Spectrwm
+- Openbox
 
 Habrá gente que no le guste pero a mi personalmente Debian Stable y Spectrwm me tiene enamorado. Asi es como tengo mi escritorio en Linux en [**reposo**](https://rim.odyssey346.dev/5MK75De.jpeg) y [**trabajando**](https://rim.odyssey346.dev/8tGLCUa.jpeg).
 
@@ -69,7 +69,6 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Spectrwm me
 - Lemuroid
 - Feeder
 - Jitsi Meet
-- Olauncher Clutter Free
 - TinyKeePass
 
 Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo una imagen de mi [**escritorio Android**](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android-v3.jpg).
