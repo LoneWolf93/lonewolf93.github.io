@@ -72,6 +72,7 @@ Mi fichero de configuración es muy básico. Soy amante del minimalismo.
 ! size font
 xterm*faceName: Terminus
 xterm*faceSize: 12
+xterm*selectToClipboard: true
 ```
 
 # Conclusión
