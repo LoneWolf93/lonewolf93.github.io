@@ -48,7 +48,7 @@ Utilizo como sistema:
 - Debian 11 Stable
 - Openbox
 
-Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me tiene enamorado. Asi es como tengo mi escritorio ![](https://rim.odyssey346.dev/543PcFb.jpeg)
+Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me tiene enamorado.![](https://rim.odyssey346.dev/543PcFb.jpeg)
 
 ## Que utilizo actualmente en el smartphone?
 
