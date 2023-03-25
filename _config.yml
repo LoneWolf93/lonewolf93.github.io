@@ -1,7 +1,7 @@
 title: "Yo, yo mismo y Linux"
 author: "Albert"
 #description: "Hecho con <b style=\"color: #f45;\">&lt;3</b>"
-description: "Mi nombre es Albert y este blog personal es para publicar cosas de Linux y Android entre otras cosas mas que se me ocurran."
+description: "Mi nombre es Albert y este blog personal es para publicar vivencias de Linux y Android entre otras cosas mas que se me ocurran."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
