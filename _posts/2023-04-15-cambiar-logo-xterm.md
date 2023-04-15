@@ -4,7 +4,7 @@ layout: post
 ---
 ![](https://user-images.githubusercontent.com/16481438/232235478-5c3c4fca-f1d6-4d05-8bd8-615ea6ca98f5.png)
 
-Reciente he cambiado el pack de iconos a papirus y la terminal xterm no cambiaba el icono pese a tener icono en papirus.
+Recientemente he cambiado el pack de iconos a papirus y la terminal xterm no cambiaba el icono pese a tener un icono en especifico para ello en papirus.
 
 # Localizar la imagen
 
