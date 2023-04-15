@@ -16,6 +16,8 @@ El fichero es `utilities-x-terminal.svg`
 
 Una vez localizado con la ayuda de GIMP[^2] o [Convert SVG to XPM](https://convertio.co/es/svg-xpm/) debemos de convertir el fichero .svg a .xpm
 
+Es aconsejable hacer una copia en otra carpeta y modificar la que hemos copiado, nunca manipular la original.
+
 Una vez hecho la conversion podemos guardarla donde queramos pero lo mas habitual es dejarlo en la ruta `/home/$USER/.icons/Papirus/16x16/apps` y le ponemos como nombre
 xterm-modificado.xpm
 
@@ -25,7 +27,9 @@ Abrimos un editor de texto y editamos el fichero .Xresources[^3]. Añadimos la s
 
 Guardamos el fichero .Xresources y lo cerramos, nuevamente en la terminal ejecutamos el comando `xrdb .Xresources` y cerramos la terminal.
 
-Abrimos la terminal y ya podemos ver como el logo ha cambiado por el nuevo que hemos hecho. 
+# Resultado final
+
+Abrimos la terminal y ya podemos ver como el logo ha cambiado por el nuevo que hemos hecho.
 
 # Agradecimientos
 
