@@ -1,0 +1,23 @@
+---
+title: "Cambiar el icono de la ventana de xterm"
+layout: post
+---
+Reciente he cambiado el pack de iconos a papirus y la terminal xterm no cambiaba el icono pese a tener icono en papirus, para forzar a que aparezca el icono correcto
+tenemos que localizar la imagen, este suele estar en:
+
+```
+/home/$USER/.icons/Papirus/16x16/apps
+```
+El fichero es *utilities-x-terminal.svg*
+
+Una vez localizado con la ayuda de GIMP o [Convert SVG to XPM](https://convertio.co/es/svg-xpm/) debemos de convertir el fichero .svg a .xpm
+
+Una vez hecho la conversio podemos guardarla donde queramos pero lo mas habitual es dejarlo en la ruta */home/$USER/.icons/Papirus/16x16/apps* y le ponemos como nombre
+xterm-modificado.xpm
+
+Abrimos un editor de texto y editamos el fichero .Xresources. Añadimos la sentencia *xterm*iconHint: /home/$USER/.icons/Papirus/16x16/apps/xterm-modificado* (Este debe de ir sin extension
+solo el nombre del fichero)
+
+Guardamos el fichero .Xresources y lo cerramos, nuevamente en la terminal ejecutamos el comando xrdb .Xresources y cerramos la terminal.
+
+Abrimos la terminal y ya podemos ver como el logo ha cambiado por el nuevo que hemos hecho.
