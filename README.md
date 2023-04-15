@@ -50,6 +50,8 @@ Utilizo como sistema:
 
 Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me tiene enamorado.![](https://rim.odyssey346.dev/543PcFb.jpeg)
 
+![](https://www.debian.org/logos/button-l.png)
+
 ## Que utilizo actualmente en el smartphone?
 
 ### Hardware
@@ -76,3 +78,4 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me 
 - Clover
 
 Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo una imagen de mi [**escritorio Android**](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android-v3.jpg).
+
