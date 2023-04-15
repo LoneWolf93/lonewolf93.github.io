@@ -21,3 +21,7 @@ solo el nombre del fichero)
 Guardamos el fichero .Xresources y lo cerramos, nuevamente en la terminal ejecutamos el comando xrdb .Xresources y cerramos la terminal.
 
 Abrimos la terminal y ya podemos ver como el logo ha cambiado por el nuevo que hemos hecho.
+
+# Agradecimientos
+
+Gracias a la web [](https://dt.iki.fi/xterm-icon-tweaks) he podido realizar este post y poder cambiar el logo a xterm.
