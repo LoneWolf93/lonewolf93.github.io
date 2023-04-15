@@ -38,7 +38,7 @@ Mi dia a dia en Linux es:
 - Thunderbird
 - Amule
 - KeepassXC
-- Micro text editor
+- Mousepad
 - OSRS (de vez en cuando, hace tiempo que no soy muy jugon)
 
 ### Sistema Operativo
@@ -63,12 +63,16 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me 
 - Nekogram X
 - Mastodon
 - Aegis
-- Sushi Personal Finance
 - Material Files
 - AntennaPod
 - Lemuroid
-- Feeder
 - Jitsi Meet
-- TinyKeePass
+- Bitwarden
+- GDrive
+- Gfotos
+- Infinity
+- Orgzly
+- ViMusic
+- Clover
 
 Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo una imagen de mi [**escritorio Android**](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android-v3.jpg).
