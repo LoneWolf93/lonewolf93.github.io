@@ -2,7 +2,7 @@
 title: "Cambiar el icono de la ventana de xterm"
 layout: post
 ---
-![icono predeterminado de xterm](https://user-images.githubusercontent.com/16481438/232235478-5c3c4fca-f1d6-4d05-8bd8-615ea6ca98f5.png)
+![](https://user-images.githubusercontent.com/16481438/232235478-5c3c4fca-f1d6-4d05-8bd8-615ea6ca98f5.png)
 
 Recientemente he cambiado el pack de iconos a papirus y la terminal xterm no cambiaba el icono pese a tener un icono en especifico para ello en papirus.
 
