@@ -113,4 +113,4 @@ un entorno que no viene predeterminado una opción muy buena es [Dunst](https://
 
 ![https://www.youtube.com/watch?v=XWlbaERuDP4](https://www.youtube.com/watch?v=XWlbaERuDP4)
 
-![https://manpages.ubuntu.com/manpages/jammy/en/man1/dunst.1.html](https://manpages.ubuntu.com/manpages/jammy/en/man1/dunst.1.html)
+[https://manpages.ubuntu.com/manpages/jammy/en/man1/dunst.1.html](https://manpages.ubuntu.com/manpages/jammy/en/man1/dunst.1.html)
