@@ -97,20 +97,20 @@ un entorno que no viene predeterminado una opción muy buena es [Dunst](https://
 ---
 # fuentes consultadas
 
-https://linuxconfig.org/get-better-notifications-in-your-wm-with-dunst
+![](https://linuxconfig.org/get-better-notifications-in-your-wm-with-dunst)
 
-https://dunst-project.org/
+![](https://dunst-project.org/)
 
-https://github.com/dunst-project/dunst
+![](https://github.com/dunst-project/dunst)
 
-https://wiki.archlinux.org/title/Dunst
+![](https://wiki.archlinux.org/title/Dunst)
 
-https://atareao.es/tutorial/bspwm/dunst-las-notificaciones-en-bspwm/
+![](https://atareao.es/tutorial/bspwm/dunst-las-notificaciones-en-bspwm/)
 
-https://www.addictivetips.com/ubuntu-linux-tips/set-up-better-system-notifications-on-linux-with-dunst/
+![](https://www.addictivetips.com/ubuntu-linux-tips/set-up-better-system-notifications-on-linux-with-dunst/)
 
-https://github.com/dunst-project/dunst/blob/master/dunstrc
+![](https://github.com/dunst-project/dunst/blob/master/dunstrc)
 
-https://www.youtube.com/watch?v=XWlbaERuDP4
+![](https://www.youtube.com/watch?v=XWlbaERuDP4)
 
-https://manpages.ubuntu.com/manpages/jammy/en/man1/dunst.1.html
+![](https://manpages.ubuntu.com/manpages/jammy/en/man1/dunst.1.html)
