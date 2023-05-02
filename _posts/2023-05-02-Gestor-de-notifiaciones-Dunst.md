@@ -92,8 +92,6 @@ Pruebalo y no querras cambiarlo por nada.
 
 [^1]: Es una manera de decir distribuciones basadas en Debian o paqueteria DEB
 
-un entorno que no viene predeterminado una opción muy buena es [Dunst](https://dunst-project.org/)
-
 ---
 # fuentes consultadas
 
