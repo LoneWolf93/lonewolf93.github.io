@@ -67,13 +67,14 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me 
 - AntennaPod
 - Lemuroid
 - Jitsi Meet
-- Bitwarden
+- KeePassDX
 - GDrive
 - Gfotos
 - Infinity
-- Orgzly
 - InnerTune
 - Clover
+- PairDrop
 
 Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo una imagen de mi [**escritorio Android**](https://raw.githubusercontent.com/LoneWolf93/lonewolf93.github.io/master/_images/escritorio-android-v3.jpg).
+![](https://marts-smartphoneshop.nl/wp-content/uploads/2019/05/Samsung-Galaxy-A5-2016.png)
 
