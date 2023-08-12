@@ -3,7 +3,7 @@ title: "Run PSX in Retroach"
 layout: post
 ---
 
-You do to have is download an appimage or install the package .dpkg from [https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch.7z](https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch.7z).
+You do to have is download an appimage from [https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch.7z](https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch.7z).
 
 You do have to set appimage properties > execute only the propietary.
 
