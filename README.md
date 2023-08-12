@@ -1,35 +1,35 @@
 ---
-title: "Sobre mi"
-permalink: "/sobre-mi/"
+title: "About me"
+permalink: "/about-me/"
 layout: page
 ---
 
-## Quien soy?
+## Who am I?
 
-Hola a todos, soy Albert un chico de Barcelona y amante de Gnu/Linux y del software libre. Acabo de aterrizar como aquel que dice, anteriormente ya conocia Gnu/Linux pero por cuestiones ajenas tenia que estar en Windows...
+Hello everyone, my name is Albert and I live in Barcelona City. I love to play old games in Retroarch. A fan of Gnu/Linux and Open Source. I am in Gnu/Linux since August 2022.
 
-## Cuál fue mi primera distribución?
+## Which was my first distro?
 
-Mi primera distribución fue en el año 2009, todavia lo recuerdo como si fuera ayer. La distribución era [**Ubuntu 9.10 Karmic Koala**](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ubuntu_9.10.png), desde ese momento me apasiono este sistema operativo.
+My first distro was Ubuntu in the year if I remember well fall 2009, october I think. The version of Ubuntu was [**Ubuntu 9.10 Karmic Koala**](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ubuntu_9.10.png) since these moment I fell inlove with Gnu/Linux.
 
-Mas tarde migré a [**Debian 6.0 Squeeze**](https://upload.wikimedia.org/wikipedia/commons/0/0c/Debian_6.0.2.1.png).
+Later I migrated to [**Debian 6.0 Squeeze**](https://upload.wikimedia.org/wikipedia/commons/0/0c/Debian_6.0.2.1.png).
 
-## Que utilizo actualmente en el ordenador?
+## What I use in my personal computer?
 
 ### Hardware
 
-Tengo como máquina principal:
+In my personal computer I have:
 
 - AMD Ryzen 5 5600G
 - Asus Tuf Gaming B550M-PLUS
 - Corsair 2x8GB DDR4 Vengeance LPX
-- Disipador Thermaltake Contact 9
+- Air cooler Thermaltake Contact 9
 - Seasonic Focus GX-650 80 Plus Gold
-- Caja Corsair Carbide Series SPEC-ALPHA
+- Case Corsair Carbide Series SPEC-ALPHA
 
 ### Software
 
-Mi dia a dia en Linux es:
+My day in Linux is:
 
 - Firefox ESR
 - Obsidian
@@ -39,18 +39,20 @@ Mi dia a dia en Linux es:
 - Amule
 - KeepassXC
 - Mousepad
-- OSRS (de vez en cuando, hace tiempo que no soy muy jugon)
+- Old School RuneScape
+- Retroarch
+- Lichess
 
-### Sistema Operativo
+### Operating System
 
-Utilizo como sistema:
+My System is:
 
-- Debian 11 Stable
+- Debian 12 Stable
 - Openbox
 
-Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me tiene enamorado.![](https://files.catbox.moe/xtaqk9.png)
+Will people that don't like it but personally I like it a lot. ![](https://files.catbox.moe/xtaqk9.png)
 
-## Que utilizo actualmente en el smartphone?
+## What do I use in my Smartphone?
 
 ### Hardware
 
@@ -75,4 +77,4 @@ Habrá gente que no le guste pero a mi personalmente Debian Stable y Openbox me 
 - Clover
 - PairDrop
 
-Pese a tener un smartphone antiguo no me gusta tirar o cambiar las cosas porque si. Pienso que si todavia funciona y es compatible con las apps del mercado pues entonces todavia tiene uso. Os dejo unas imagenes de como es el escritorio y el exterior del smartphone. [**escritorio Android y aspecto fisico**](https://catbox.moe/c/vkffr8).
+I have an old smartphone, I don't like drop to the trash hardware "obsolete" that It is working well yet. Until today all main apps are working, Whatsapp, Telegram, YouTube, etc. Let some pics from Desktop and the exterior. [**desktop Android and his physical aspect**](https://catbox.moe/c/vkffr8).
