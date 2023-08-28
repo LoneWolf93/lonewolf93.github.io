@@ -16,3 +16,7 @@ fi
 ```
 
 Esto lo que hará es que al hacer sesion sin tener un GUI para iniciar sesion startx se ejecutara de manera automatica al iniciar sesion de manera en consola o TTY.
+
+# Bibliografia de URLs
+
+Sacado del foro de ArchLinux: [Foro de ArchLinux](https://bbs.archlinux.org/viewtopic.php?id=144119)
