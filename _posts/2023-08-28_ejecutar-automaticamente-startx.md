@@ -1,3 +1,8 @@
+---
+title: "Ejecutar automáticamente startx al iniciar sesion en una TTY o Terminal"
+layout: post
+---
+
 # Ejecutar automáticamente startx
 
 Si queremos ejecutar automaticamente `startx` necesitamos crear un fichero en el HOME del usuario, la ruta es /home/nombre-usuario
