@@ -50,7 +50,7 @@ My System is:
 - Debian 12 Stable
 - Openbox
 
-Will people that don't like it but personally I like it a lot. ![](https://files.catbox.moe/xtaqk9.png)
+Will people that don't like it but personally I like it a lot. ![](https://files.catbox.moe/jitkay.png)
 
 ## What do I use in my Smartphone?
 
