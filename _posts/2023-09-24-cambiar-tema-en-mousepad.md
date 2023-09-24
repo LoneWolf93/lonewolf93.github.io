@@ -6,7 +6,7 @@ Mousepad es un editor de textos liviano para GNU/Linux que incluye temas de colo
 
 # Instalación manual
 
-Debemos crear la siguente ruta de directorios `/home/usuario/.local/share/gtksourceview-4/styles`
+Debemos tener la siguente ruta de directorios `/home/usuario/.local/share/gtksourceview-4/styles`
 
 **Si no tenemos creado gtksourceview-4 y styles debemos crearlos.**
 
