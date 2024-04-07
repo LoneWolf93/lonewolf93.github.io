@@ -32,8 +32,8 @@ In my personal computer I have:
 My day in Linux is:
 
 - Firefox ESR
-- Obsidian
-- Audacious
+- Zim
+- Cmus
 - Telegram
 - Thunderbird
 - Amule
@@ -64,19 +64,15 @@ Will people that don't like it but personally I like it a lot.
 ### Software
 
 - Iceraven
-- Nekogram X
-- Mastodon
+- Telegram FOSS
 - Aegis
 - Material Files
 - AntennaPod
 - Lemuroid
 - Jitsi Meet
 - KeePassDX
-- GDrive
 - Gfotos
-- Infinity
 - InnerTune
 - Clover
-- PairDrop
 
 I have an old smartphone, I don't like drop to the trash hardware "obsolete" that It is working well yet. Until today all main apps are working, Whatsapp, Telegram, YouTube, etc. Let some pics from Desktop and the exterior. [**desktop Android and his physical aspect**](https://catbox.moe/c/vkffr8).
