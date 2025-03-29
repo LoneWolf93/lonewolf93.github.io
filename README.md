@@ -1,78 +1,45 @@
 ---
-title: "About me"
-permalink: "/about-me/"
+title: "Sobre mi"
+permalink: "/sobre-mi/"
 layout: page
 ---
 
-## Who am I?
+## Quién soy?
 
-Hello everyone, my name is Albert and I live in Barcelona City. I love to play old games in Retroarch. A fan of Gnu/Linux and Open Source. I am in Gnu/Linux since August 2022.
+Hola a todos, mi nombre es Albert y vivo en una ciudad cercana a Barcelona. Me encanta jugar a juegos retros, soy fan de GNU/Linux y del Código Libre. Llevo de manera total en GNU/Linux desde Agosto del año 2022.
 
-## Which was my first distro?
+## Como conocí a nuestro querido pingüino?
 
-My first distro was Ubuntu in the year if I remember well fall 2009, october I think. The version of Ubuntu was [**Ubuntu 9.10 Karmic Koala**](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ubuntu_9.10.png) since these moment I fell inlove with Gnu/Linux.
+Todo vino de sorpresa era por entonces el año 2009 y estaba haciendo un grado medio, dio la casualidad que en una de las materias que me parece que se llamaba "Sistemas Operativos" nos dieron a conocer GNU/Linux Ubuntu 9.10.
 
-Later I migrated to [**Debian 6.0 Squeeze**](https://upload.wikimedia.org/wikipedia/commons/0/0c/Debian_6.0.2.1.png).
+Me gustó bastante :), por entonces Ubuntu molaba :').
 
-## What I use in my personal computer?
+[**Ubuntu 9.10 Karmic Koala**](https://upload.wikimedia.org/wikipedia/commons/c/c8/Ubuntu_9.10.png)
+
+Unos años más tarde conoci a la madre de Ubuntu que es Debian, por entonces iban por la version 6.0.
+
+Mi primera impresion en Debian fue un poco dura ya que lo veía mas difícil que Ubuntu... Ahora Debían ha mejorado muchísimo y es mas amigable.
+
+[**Debian 6.0 Squeeze**](https://upload.wikimedia.org/wikipedia/commons/0/0c/Debian_6.0.2.1.png).
+
+No aguanté mucho y me desvinculé de GNU/Linux porque no llevé bien la gestión en GNU/Linux; Falta de experiencia sobre el sistema, Frustaciones que tenia... Ahora me arrepiento de haberme ido...
+
+## Qué ordenador de diario utilizo?
 
 ### Hardware
 
-In my personal computer I have:
+Estas son mis especificaciones:
 
-- AMD Ryzen 5 5600G
-- Asus Tuf Gaming B550M-PLUS
-- Corsair 2x8GB DDR4 Vengeance LPX
-- Air cooler Thermaltake Contact 9
-- Seasonic Focus GX-650 80 Plus Gold
-- Case Corsair Carbide Series SPEC-ALPHA
+- **Procesador:** AMD Ryzen 5 5600G
+- **Placa Base:** Asus Tuf Gaming B550M-PLUS
+- **RAM:** Corsair 2x8GB DDR4 Vengeance LPX
+- **Enfriador por aire:** Thermaltake Contact 9
+- **Fuente Alimentación:** Seasonic Focus GX-650 80 Plus Gold
+- **Caja:** Corsair Carbide Series SPEC-ALPHA
 
-### Software
+### Sistema Operativo
 
-My day in Linux is:
-
-- Firefox ESR
-- Zim
-- Cmus
-- Telegram
-- Thunderbird
-- Amule
-- KeepassXC
-- Mousepad
-- Old School RuneScape
-- Retroarch
-- Lichess
-
-### Operating System
-
-My System is:
-
-- Debian 12 Stable
-- Openbox
-
-Will people that don't like it but personally I like it a lot.
+- Debian 12 Rama Estable.
+- Openbox como gestor de ventana en X11.
 
 ![](https://files.catbox.moe/jitkay.png)
-
-## What do I use in my Smartphone?
-
-### Hardware
-
-- Samsung Galaxy A5 2016
-- Android 7
-
-### Software
-
-- Iceraven
-- Telegram FOSS
-- Aegis
-- Material Files
-- AntennaPod
-- Lemuroid
-- Jitsi Meet
-- KeePassDX
-- Gfotos
-- InnerTune
-- Clover
-
-I have an old smartphone, I don't like drop to the trash hardware "obsolete" that It is working well yet. Until today all main apps are working, Whatsapp, Telegram, YouTube, etc. Let some pics from Desktop and the exterior. [**desktop Android and his physical aspect**](https://catbox.moe/c/vkffr8).
